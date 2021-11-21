@@ -42,13 +42,7 @@ M
 int main()
 
 {
-  - printf("F
-U
-C
-K
-O
-F
-F");
+  - printf("<3");
 
 
 return 0;
